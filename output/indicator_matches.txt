@@ -1,0 +1,49 @@
+
+--- 30 indicators containing 'Arbeitslos' ---
+01. Anteil jüngere Arbeitslose
+02. Anteil männliche jüngere Arbeitslose
+03. Anteil männliche ältere Arbeitslose
+04. Anteil weibliche jüngere Arbeitslose
+05. Anteil weibliche ältere Arbeitslose
+06. Anteil ältere Arbeitslose
+07. Arbeitslose
+08. Arbeitslose Frauen
+09. Arbeitslose Männer
+10. Arbeitslose mit Anforderungsniveau Experte
+11. Arbeitslose mit Anforderungsniveau Fachkraft
+12. Arbeitslose mit Anforderungsniveau Helfer
+13. Arbeitslose mit Anforderungsniveau Spezialist
+14. Arbeitslose ohne Ausbildung
+15. Arbeitslosigkeit
+16. Arbeitslosigkeit - Allgemein
+17. Arbeitslosigkeit - Altersgruppen
+18. Arbeitslosigkeit - Struktur
+19. Ausländische Arbeitslose
+20. Ausländische männliche Arbeitslose
+21. Ausländische weibliche Arbeitslose
+22. Jüngere Arbeitslose
+23. Langzeitarbeitslose
+24. Männliche Langzeitarbeitslose
+25. Männliche jüngere Arbeitslose
+26. Männliche ältere Arbeitslose
+27. Weibliche Langzeitarbeitslose
+28. Weibliche jüngere Arbeitslose
+29. Weibliche ältere Arbeitslose
+30. Ältere Arbeitslose
+
+--- 2 indicators containing 'SGB' ---
+01. ALG II-Leistungen an SGBII
+02. Leistungen für Unterkunft an SGBII
+
+--- 6 indicators containing '65' ---
+01. Einwohner 65 Jahre und älter
+02. Einwohner 65 Jahre und älter, Frauen
+03. Einwohner von 50 bis unter 65 Jahren
+04. Einwohner von 65 bis unter 75 Jahren
+05. Einwohner von 65 bis unter 75 Jahren, Frauen
+06. Erwerbsfähige Bevölkerung (15 bis unter 65 Jahre)
+
+--- 3 indicators containing 'Bevölkerungsentwicklung' ---
+01. Bevölkerungsentwicklung
+02. Bevölkerungsentwicklung (10 Jahre)
+03. Bevölkerungsentwicklung (5 Jahre)
